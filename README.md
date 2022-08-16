@@ -1,5 +1,3 @@
-# chl_orbslam2_cuda
-
 # 1. Goal of this project
 Goal of this project is to minimize run time and RMSE of ORB_SLAM2.  
 
